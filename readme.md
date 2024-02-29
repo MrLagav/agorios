@@ -4,10 +4,10 @@ Agorios is a Python-based data science project focused on scraping data from pop
 
 ## Introduction
 
-In today's digital age, marketplaces play a crucial role in connecting buyers and sellers across various industries. Agorios aims to leverage data scraping techniques to gather valuable insights from these marketplaces, enabling users to make informed decisions based on market trends, pricing dynamics, and other key factors.
+I am starting this project for fun! Agorios aims to leverage data collection techniques to gather valuable insights from these marketplaces, enabling users to make informed decisions based on market trends, pricing dynamics, and other key factors.
 
 ## Features
-
+(Well that's the plan - We will reach it commit by commit :P)
 - Web scraping: Agorios scrapes data from popular marketplaces to collect product listings, prices, descriptions, and other relevant information.
 - Data analysis: The collected data is analyzed using various data science techniques to uncover insights, trends, and patterns.
 - Machine learning: Agorios employs machine learning algorithms to predict market trends, forecast prices, and optimize strategies.
@@ -35,3 +35,11 @@ cd agorios
 ```bash
 pip install -r requirements.txt
 ```
+### Contributing
+Contributions are welcome! If you'd like to contribute to Agorios, please follow these guidelines:
+
+- Fork the repository.
+- Create a new branch (git checkout -b feature/my-feature).
+- Commit your changes (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature/my-feature).
+- Create a new Pull Request.
