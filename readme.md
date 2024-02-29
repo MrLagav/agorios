@@ -35,3 +35,11 @@ cd agorios
 ```bash
 pip install -r requirements.txt
 ```
+### Contributing
+Contributions are welcome! If you'd like to contribute to Agorios, please follow these guidelines:
+
+Fork the repository.
+Create a new branch (git checkout -b feature/my-feature).
+Commit your changes (git commit -am 'Add new feature').
+Push to the branch (git push origin feature/my-feature).
+Create a new Pull Request.
