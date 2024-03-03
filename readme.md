@@ -7,11 +7,9 @@ Agorios is a Python-based data science project focused on scraping data from pop
 I am starting this project for fun! Agorios aims to leverage data collection techniques to gather valuable insights from these marketplaces, enabling users to make informed decisions based on market trends, pricing dynamics, and other key factors.
 
 ## Features
-(Well that's the plan - We will reach it commit by commit :P)
-- Web scraping: Agorios scrapes data from popular marketplaces to collect product listings, prices, descriptions, and other relevant information.
-- Data analysis: The collected data is analyzed using various data science techniques to uncover insights, trends, and patterns.
-- Machine learning: Agorios employs machine learning algorithms to predict market trends, forecast prices, and optimize strategies.
-- Web interface: Agorios provides a user-friendly web interface for interacting with the scraped data, visualizing analysis results, and accessing machine learning models.
+(Well that's the plan - We will reach it commit by commit :P) </br>
+<strong>Search the product, get a sentiment analysis on it!</strong></br>
+Agorios will provide a web interface where the user can search for products. Select the product and if there are comments, have a sentiment analysis of the reviews!
 
 ## Getting Started
 
